@@ -1,0 +1,7 @@
+# Generated results
+/output/
+/results/
+
+# Spark temporary files
+*.crc
+_SUCCESS
