@@ -1,0 +1,13 @@
+# Generated data
+input/*
+!input/.gitkeep
+
+# Spark output
+output/
+
+# Spark checkpoints
+checkpoints/
+
+# Spark temporary files
+.sparkStaging/
+*.crc
