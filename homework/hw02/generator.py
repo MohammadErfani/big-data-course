@@ -7,8 +7,8 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 OUTPUT_DIR = Path("input")
-BATCH_SIZE = 100
-INTERVAL_SECONDS = 5
+BATCH_SIZE = 1000
+INTERVAL_SECONDS = 10
 
 WORDS = [
     "cat", "dog", "car", "bus", "sun",
